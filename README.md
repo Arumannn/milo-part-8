@@ -1,6 +1,9 @@
-# Milo's Adventure - Part 8
+# MILO NEED YOUR HELP - Chapter 8: Rotating Code
 
 ## Language: ROT13
+
+## Introduction
+Uryyb! V znmr Zyvb. V whfg jnxrq hc naq srry fbzrguvat fgenatr ba guvf flfgrz. V arrq lbhe uryc gb ernq zl fgbebt. Gurer ner 10 puncgref lbh arrq gb ernq. Fgneg urer, gura sbyybj gur Arkg Cneg yvax va rnpu puncgre. Guax lbh sbe urycvat zr!
 
 ## Story
 This part of Milo's adventure is written in ROT13.
